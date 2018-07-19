@@ -1,0 +1,225 @@
+div.row{
+  padding:30px;
+}
+
+div.jumbotron.jmbo{
+  margin-top:110px; 
+  background-image:url(../../assets/img/28694584_2055945361085589_47403577_o.jpg);
+  background-size: cover;
+}
+
+@media (max-width:991px) {
+  div.col-md-2.small{
+    margin:10px;
+  }
+}
+
+@media (max-width:991px) {
+  button#btn.btn.btn-default{
+    width:100%;
+  }
+}
+
+div.col-md-2.small.super{
+  margin-top:20px;
+  overflow:auto;
+}
+
+label.lable{
+  color:white;
+  font-weight:bolder;
+  font-size:medium;
+}
+
+div#saham.row.clearfix{
+  background-color:rgba(57,27,27,0.61);
+  border-radius:5px;
+}
+div.jumbotron.tron{
+  background-color:rgba(57,27,27,0.61);
+  color: white;
+}
+
+div.logo{  
+  position:fixed; 
+  width: 100%; 
+  height:100px;
+  margin-top: -90px;
+  background-color: white;
+  z-index: 2;
+} 
+nav.navbar.navbar-default.navbar-fixed-top{
+  margin-top:80px;
+  background-color: #df080f;
+}
+
+@media (min-width:1200px) {
+  div.user{
+    background-color:grey;
+    width:50px;
+    height:50px;
+    margin:2px;
+    position:relative;
+    display:inline-block;
+  }
+}
+
+@media (max-width:1199px) {
+  div.user{
+    width:50px;
+    height:50px;
+    margin:2px;
+    position:relative;
+    display:inline-block;
+  }
+}
+
+@media (max-width:991px) {
+  div.user{
+    background-color:grey;
+    width:50px;
+    height:50px;
+    margin:2px;
+    position:relative;
+    display:inline-block;
+  }
+}
+
+@media (max-width:767px) {
+  div.user{
+    background-color:grey;
+    width:50px;
+    height:50px;
+    margin:2px;
+    position:relative;
+    display:inline-block;
+  }
+}
+
+p#login.text-center{
+  margin-top:-20px;
+  margin-bottom:30px;
+  width:100%;
+  background-color:#cccccc;
+  color:#79858b;
+  padding:5px;
+  font-weight:bold;
+}
+
+h1#sahamhead.text-nowrap.text-center{
+  width:100%;
+  background-color:#cccccc;
+  color:#79858b;
+  padding:5px;
+}
+
+div.sahamdiv{
+  background-color:rgb(204,204,204);
+  margin-bottom: -30px;
+}
+
+div.card{
+  border-radius:10px;
+}
+
+button#btuonlo.btn.btn-primary{
+  float:right;
+  width:100px;
+}
+
+a.text-danger{
+  font-weight:bold;
+  color:#79858b;
+}
+
+a.text-danger{
+  color:#79858b;
+}
+
+label{
+  color:#79858b;
+}
+.links{
+  margin-top: -10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.btn-facebook {
+  background: #3B5998;
+  color: white;
+  border: 1px solid #3B5998;
+}
+
+.btn-twitter {
+  background: #55ACEE;
+  color: white;
+  border: 1px solid #55ACEE;
+}
+.hvr-grow-shadow {
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform;
+  padding: 5px;
+}
+.hvr-grow-shadow:hover, .hvr-grow-shadow:focus, .hvr-grow-shadow:active {
+  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+div#id{
+  margin:5px;
+  width:150px;
+  height:150px;
+  display:inline-block;
+  padding:5px;
+  background-color:rgba(180,179,179,0.5);
+}
+
+#pera{
+  margin-top:100px;
+}
+
+span#pera.label.label-default{
+  background-color:rgb(58,157,62);
+  margin-right:5px;
+}
+
+label#lable{
+  margin-top:100px;
+  color: black;
+}
+div#profile{
+  margin:5px;
+  width:150px;
+  height:150px;
+  display:inline-block;
+  padding:5px;
+  background-color:rgba(180,179,179,0.5);
+  border-radius: 50%;
+}
+
+

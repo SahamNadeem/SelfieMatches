@@ -1,0 +1,22 @@
+div#ser.col-md-2{
+  padding: 10px;
+}
+div#rowsearch.row{
+  padding:20px;
+  background-color:rgba(179,178,178,0.71);
+}
+
+div.container{
+}
+
+div#contw.container{
+  width:100%;
+}
+
+div#saham.col-md-2{
+  padding:5px;
+}
+
+button#sahambtn.btn.btn-default{
+  width:100%;
+}
